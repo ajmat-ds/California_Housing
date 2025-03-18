@@ -1,7 +1,7 @@
 # California_Housing
 
 ## Libraries required
-""" Pandas
+` Pandas
 Numpy
 Matplotlib
 Seaborn
@@ -14,7 +14,7 @@ SimpleImputer
  Pipeline
 StandardScaler
 OneHotEncoder
-FeatureUnion
+FeatureUnion`
 """
 ## Machine Learning Model used in this project
 """
