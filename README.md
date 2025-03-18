@@ -15,7 +15,7 @@ SimpleImputer,
 StandardScaler,
 OneHotEncoder,
 FeatureUnion`
-"""
+
 ## Machine Learning Model used in this project
 """
 LinearRegression
