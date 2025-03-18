@@ -1,19 +1,19 @@
 # California_Housing
 
 ## Libraries required
-` Pandas
-Numpy
-Matplotlib
-Seaborn
-os
-tarfile
-urllib
-SimpleImputer
- LabelBinarizer
+` Pandas,
+Numpy,
+Matplotlib,
+Seaborn,
+os,
+tarfile,
+urllib,
+SimpleImputer,
+ LabelBinarizer,
  BaseEstimator, TransformerMixin
- Pipeline
-StandardScaler
-OneHotEncoder
+ Pipeline,
+StandardScaler,
+OneHotEncoder,
 FeatureUnion`
 """
 ## Machine Learning Model used in this project
